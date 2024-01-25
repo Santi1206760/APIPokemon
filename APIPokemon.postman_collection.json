@@ -1,0 +1,492 @@
+{
+	"info": {
+		"_postman_id": "338129d2-f85c-4b42-8fd5-110bd7a8fe5f",
+		"name": "APIPokemon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32558619"
+	},
+	"item": [
+		{
+			"name": "Move",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/move/thunderbolt",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/move/thunderbolt",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"move",
+								"thunderbolt"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/docs/v2/move",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/move",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"move"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/move-category/3",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/move-category/3",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"move-category",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/move/10",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/move/10",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"move",
+								"10"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Location",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/location/3",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/location/3",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"location",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Items",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/item/ultra-ball",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/item/ultra-ball",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"item",
+								"ultra-ball"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/item/5",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/item/5",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"item",
+								"5"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Generation",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/generation/generation-v",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/generation/generation-v",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"generation",
+								"generation-v"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/generation/1",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/generation/1",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"generation",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Ability",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/ability/34",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/ability/34",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"ability",
+								"34"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Pokemon",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/pokemon/6",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/6",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"6"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/pokemon/25",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/25",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"25"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/pokemon/pikachu",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/pikachu",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"pikachu"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Species",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/pokemon-species/133",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon-species/133",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon-species",
+								"133"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/pokemon-species/charizard",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon-species/charizard",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon-species",
+								"charizard"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Type",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/type/4",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/type/4",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"type",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/type",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/type",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"type"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/type/fire",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/type/fire",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"type",
+								"fire"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Version",
+			"item": [
+				{
+					"name": "https://pokeapi.co/api/v2/version/5",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/version/5",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"version",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://pokeapi.co/api/v2/version",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/version",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"version"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
